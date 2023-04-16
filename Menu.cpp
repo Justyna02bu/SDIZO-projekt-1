@@ -300,7 +300,7 @@ int main() {
                     cout << "1 - tablica" << endl;
                     cout << "2 - lista" << endl;
                     cout << "3 - kopiec" << endl;
-                    cout << "2 - drzewo" << endl;
+                    cout << "4 - drzewo" << endl;
                     cout << "Wybrano: ";
                     cin >> nr;
 
