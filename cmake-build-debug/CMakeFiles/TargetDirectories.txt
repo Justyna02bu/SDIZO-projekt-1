@@ -1,0 +1,3 @@
+C:/Users/Justy/source/repos/SIZO P/SIZO P/cmake-build-debug/CMakeFiles/SIZO_P.dir
+C:/Users/Justy/source/repos/SIZO P/SIZO P/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Justy/source/repos/SIZO P/SIZO P/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,35 @@
+﻿  Czaso.cpp
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Czaso.cpp(19,22): warning C4244: "inicjowanie": konwersja z "_Rep" do "long", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Czaso.cpp(24,22): warning C4244: "inicjowanie": konwersja z "_Rep" do "long", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+  Drzewo.cpp
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Drzewo.cpp(50,13): warning C4309: "=": obcięcie stałej wartości
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Drzewo.cpp(50,26): warning C4309: "=": obcięcie stałej wartości
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Drzewo.cpp(51,13): warning C4309: "=": obcięcie stałej wartości
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Drzewo.cpp(51,26): warning C4309: "=": obcięcie stałej wartości
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Drzewo.cpp(52,13): warning C4309: "=": obcięcie stałej wartości
+  Kopiec.cpp
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Kopiec.cpp(36,34): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Kopiec.cpp(81,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Kopiec.cpp(82,19): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Kopiec.cpp(116,15): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Kopiec.cpp(121,23): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Kopiec.cpp(130,23): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Lista.cpp
+  Menu.cpp
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Opcje.h(4,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'Czas.h': No such file or directory
+  Opcje.cpp
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Opcje.h(4,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'Czas.h': No such file or directory
+  Tablica.cpp
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Tablica.h(32,1): fatal  error C1070: niezgodność pary #if/#endif w pliku "C:\Users\Justy\source\repos\SIZO P\SIZO P\Tablica.h"
+  Testy.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Justy\source\repos\SIZO P\SIZO P\Tablica.h(32,1): fatal  error C1070: niezgodność pary #if/#endif w pliku "C:\Users\Justy\source\repos\SIZO P\SIZO P\Tablica.h"
+  Generowanie kodu...
